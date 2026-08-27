@@ -1,0 +1,2 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+Group01_MaleBin_resnet18_fixed.pt filter=lfs diff=lfs merge=lfs -text
