@@ -1,0 +1,13 @@
+{
+  "final_name": "CNN_GCN_4N",
+  "n_classes": 35,
+  "grid": 8,
+  "graph_image_size": 128,
+  "connectivity": 4,
+  "weighted": false,
+  "use_bn": true,
+  "depth": 3,
+  "fixed_test_macro_f1": 0.7619658953002879,
+  "fixed_test_accuracy": 0.7913357400722022,
+  "resnet_fixed_macro_f1": 0.834444823030133
+}
